@@ -1,0 +1,1 @@
+# anti-corruption-layer-external-systems-decoupling
